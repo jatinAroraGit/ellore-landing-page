@@ -466,14 +466,13 @@ the website, in dark theme
 
 .steps__card-number {
   display: inline-block;
-  background-color: var(--first-color-alt);
-  color: #fff;
-  padding: 0.5rem 0.75rem;
+  justify-items: center;
+  color: #3c6353;
+
   border-radius: 0.25rem;
-  font-size: var(--h1-font-size);
-  margin-bottom: var(--mb-1-5);
+  font-size: var(--big-font-size);
   transition: 0.3s;
-  height: 57px;
+  min-height: fit-content;
 }
 
 .steps__card-title {
