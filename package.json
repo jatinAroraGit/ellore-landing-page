@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jatinAroraGit/ellore.git"
+    "url": "git+https://github.com/jatinAroraGit/ellore-landing-page.git"
   },
   "keywords": [
     "ellore"
@@ -16,7 +16,7 @@
   "author": "Jatin Arora",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jatinAroraGit/ellore/issues"
+    "url": "https://github.com/jatinAroraGit/ellore-landing-page/issues"
   },
-  "homepage": "https://github.com/jatinAroraGit/ellore#readme"
+  "homepage": "https://github.com/jatinAroraGit/ellore-landing-page"
 }
