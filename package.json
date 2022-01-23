@@ -1,0 +1,22 @@
+{
+  "name": "ellore-website",
+  "version": "1.0.0",
+  "description": "landing page template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinAroraGit/ellore.git"
+  },
+  "keywords": [
+    "ellore"
+  ],
+  "author": "Jatin Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatinAroraGit/ellore/issues"
+  },
+  "homepage": "https://github.com/jatinAroraGit/ellore#readme"
+}
